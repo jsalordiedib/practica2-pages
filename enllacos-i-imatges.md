@@ -14,4 +14,4 @@ Pots visitar [IEDIB](https://iedib.net).
 
 ![Logo del projecte](img/rust-logo.png)
 
-[Inci](./PRACTICA2.md)
+[Inci](./README.md)

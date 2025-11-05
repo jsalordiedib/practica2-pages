@@ -30,4 +30,4 @@ I fins i tot ~~ratllar text (s)~~ si cal.
 
 > *Consell:* El Markdown és molt útil per escriure documentació clara i fàcil de llegir. (div amb estil)
 
-[Inci](./PRACTICA2.md)
+[Inci](./README.md)

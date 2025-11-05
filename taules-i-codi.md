@@ -36,4 +36,4 @@ saluda("Món");
 **Negreta**, *cursiva*, i [enllaç](https://iedib.net)
 ```
 
-[Inci](./PRACTICA2.md)
+[Inci](./README.md)

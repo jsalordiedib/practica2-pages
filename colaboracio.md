@@ -36,4 +36,4 @@ Treballar amb el flux de GitHub (forks, PRs i issues) aporta molts **avantatges*
 
 > En resum: GitHub no només és una eina per guardar codi, sinó també una **plataforma de col·laboració i aprenentatge**.
 
-[Inci](./PRACTICA2.md)
+[Inci](./README.md)
