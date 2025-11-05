@@ -9,3 +9,4 @@
 4. [Simulació de col·laboració](./colaboracio.md)
 
 - [El meu perfil de GitHub](https://github.com/jsalordiedib)
+- [Practica2 publicada](https://jsalordiedib.github.io/practica2-pages/)
