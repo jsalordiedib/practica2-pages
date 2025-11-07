@@ -16,12 +16,16 @@ Serveix per poder experimentar o fer canvis sense afectar el projecte original.
 Una ***pull request*** és una petició per demanar que els teus canvis (fets en el teu *fork* o branca) s’incorporin al projecte original.  
 Permet revisar, comentar i aprovar els canvis abans de fusionar-los. Alguns proveidors de repositoris l'anomenen, més encertadament, ***Merge Request***.
 
+![Exemple de PR](img/pr.png)
+
 ---
 
 ## Què és una *Issue*?
 
 Una **issue** és un mètode per comunicar problemes, idees o propostes de millora dins d’un projecte.  
 Les issues ajuden a fer seguiment de tasques o errors d’una manera organitzada.
+
+![Exemple de PR](img/issue.png)
 
 ---
 
